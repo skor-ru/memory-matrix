@@ -1,5 +1,3 @@
 resolution:1920*1080
 FPS:60
-
-resolution:480*270
-rezice_chance, wait_time:0 0.5
+rezice_chance, wait_time:
